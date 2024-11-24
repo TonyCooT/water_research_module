@@ -1,0 +1,47 @@
+{
+  "uuid": "1bebaf27f72cacf168056a7fea2e32d0",
+  "path": "Offline/rs_485_transceiver",
+  "name": "rs_485_transceiver",
+  "content": "",
+  "created_at": "2022-05-10 21:26:12",
+  "updated_at": "2022-10-02 02:55:53",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "62439e048c6f10aa2d1d4eb959a77c37",
+      "title": "schematic",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "updateTime": 1664642420,
+      "createTime": 1664642420,
+      "histories": [],
+      "created_at": "2022-10-01 19:40:20",
+      "updated_at": "2022-10-01 19:40:20"
+    },
+    {
+      "uuid": "17bd2f6c8b9418aff5833a4aa714fe92",
+      "title": "pcb",
+      "filename": "pcb.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "updateTime": 1653724142,
+      "createTime": 1653724142,
+      "histories": [],
+      "created_at": "2022-05-28 10:49:02",
+      "updated_at": "2022-05-28 10:49:02"
+    }
+  ],
+  "sort": [
+    "62439e048c6f10aa2d1d4eb959a77c37",
+    "0b421e6a09c5c3eb25d0e0a8c0da25f3",
+    "c6f87567b038d4bda76528adbae74a9a"
+  ],
+  "title": "rs_485_transceiver",
+  "foldername": "rs_485_transceiver",
+  "schfilename": "schematic.json",
+  "schfilemtime": 1664668553633
+}

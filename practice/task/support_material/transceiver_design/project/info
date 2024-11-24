@@ -1,0 +1,216 @@
+{
+  "uuid": "05fe52c4a2c09aabfdac4de6aff21cc6",
+  "path": "Offline/project",
+  "name": "project",
+  "content": "",
+  "created_at": "2023-02-01 00:41:46",
+  "updated_at": "2023-02-01 01:00:41",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "ed89d4c4ff2a54a3db99ebad499897b0",
+      "title": "schematic",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "updateTime": 1675202441,
+      "createTime": 1675202202,
+      "histories": [],
+      "created_at": "2023-02-01 00:56:42",
+      "updated_at": "2023-02-01 01:00:41",
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "100nF",
+          1,
+          "C0603",
+          "C1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "YAGEO(国巨)",
+            "BOM_Manufacturer Part": "CC0603KRX7R9BB104",
+            "BOM_Supplier Part": "C14663",
+            "BOM_JLCPCB Part Class": "Basic Part",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "154b66255b01a09bf1c88bb1ea89be78"
+          }
+        ],
+        [
+          "22-28-4020",
+          1,
+          "HDR-TH_2P-P2.54-V-M-1",
+          "CN1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C234182",
+            "BOM_Manufacturer": "MOLEX",
+            "BOM_Manufacturer Part": "22284020",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "7ae61b24ec5d431087f34ea7cfebbd9e",
+            "uuid": "e3644ef87a454ba5a9b8611b23734226"
+          }
+        ],
+        [
+          "CDSOT23-SM712",
+          1,
+          "SOT-23_L2.9-W1.3-P1.90-LS2.4-BR",
+          "D1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C404012",
+            "BOM_Manufacturer": "BOURNS",
+            "BOM_Manufacturer Part": "CDSOT23-SM712",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "2a819e02584e46aea9f04b619de61270",
+            "uuid": "1c6d546365234e1cbff432029c879bc7"
+          }
+        ],
+        [
+          "TLMS1000-GS08",
+          1,
+          "LED0603-R-RD",
+          "LED1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C241893",
+            "BOM_Manufacturer": "VISHAY(威世)",
+            "BOM_Manufacturer Part": "TLMS1000-GS08",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "50dc3b6111d549ddb6686d77ab1ebdd8",
+            "uuid": "2967e8415b3444d59663d43e4e384867"
+          }
+        ],
+        [
+          "220",
+          1,
+          "R0603",
+          "R1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "YAGEO(国巨)",
+            "BOM_Manufacturer Part": "RC0603FR-07220RL",
+            "BOM_Supplier Part": "C107696",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "1f62665fdbcc440aab6bbe04d0bd0148"
+          }
+        ],
+        [
+          "10K",
+          2,
+          "R0603",
+          "R2,R3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "YAGEO(国巨)",
+            "BOM_Manufacturer Part": "RC0603FR-0710KL",
+            "BOM_Supplier Part": "C98220",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "9e0eced329e241a390924a11deca01dd"
+          }
+        ],
+        [
+          "10",
+          2,
+          "R0603",
+          "R4,R5",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "YAGEO(国巨)",
+            "BOM_Manufacturer Part": "RC0603FR-0710RL",
+            "BOM_Supplier Part": "C109318",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "ec2f6539de07470096df196f145e7b45"
+          }
+        ],
+        [
+          "120",
+          1,
+          "R0603",
+          "R6",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "YAGEO(国巨)",
+            "BOM_Manufacturer Part": "RC0603JR-07120RL",
+            "BOM_Supplier Part": "C114681",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "886f60d33d174c15a867344c3692efb9"
+          }
+        ],
+        [
+          "SN65HVD3085EDR",
+          1,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C140229",
+            "BOM_Manufacturer": "TI(德州仪器)",
+            "BOM_Manufacturer Part": "SN65HVD3085EDR",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "806a55eb4d3c40ab838f70f86785d85e",
+            "uuid": "eed06ffc65684b1b831ae370f3aa88ea"
+          }
+        ],
+        [
+          "87220-3",
+          2,
+          "CONN-TH_3P-P2.54_87220-3",
+          "U2,U3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C306140",
+            "BOM_Manufacturer": "TE Connectivity(美国泰科)",
+            "BOM_Manufacturer Part": "87220-3",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "2d767a3dd3414636a25fc326bb6ccbf0",
+            "uuid": "4430d66d21684e1fb38ac6b28ee4b4db"
+          }
+        ],
+        [
+          "ED555/4DS",
+          1,
+          "CONN-TH_4P-P3.50_L6.5-W14.0",
+          "U4",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C98769",
+            "BOM_Manufacturer": "On-Shore Technology, Inc.",
+            "BOM_Manufacturer Part": "ED555/4DS",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "060a530e612c40febeda24c4678acc10",
+            "uuid": "d54a479289b94cc5b27a808b809dc7b6"
+          }
+        ]
+      ],
+      "components": {
+        "154b66255b01a09bf1c88bb1ea89be78": 1,
+        "eed06ffc65684b1b831ae370f3aa88ea": 1,
+        "2967e8415b3444d59663d43e4e384867": 1,
+        "1f62665fdbcc440aab6bbe04d0bd0148": 1,
+        "9e0eced329e241a390924a11deca01dd": 2,
+        "886f60d33d174c15a867344c3692efb9": 1,
+        "1c6d546365234e1cbff432029c879bc7": 1,
+        "4430d66d21684e1fb38ac6b28ee4b4db": 2,
+        "e3644ef87a454ba5a9b8611b23734226": 1,
+        "d54a479289b94cc5b27a808b809dc7b6": 1,
+        "ec2f6539de07470096df196f145e7b45": 2
+      }
+    }
+  ],
+  "sort": [],
+  "title": "project",
+  "foldername": "project",
+  "schfilename": "schematic.json",
+  "schfilemtime": 1675202441184
+}
